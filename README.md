@@ -340,6 +340,7 @@ These are similar to the multi-author blogs, but are blogs tied to a specific pr
   <li>[<a href="https://www.levelaccess.com/feed/">RSS</a>] <a href="https://www.levelaccess.com">Level Access</a></li>
   <li>[<a href="https://blog.logrocket.com/feed/">RSS</a>] <a href="https://blog.logrocket.com">LogRocket</a></li>
   <li>[<a href="https://www.machmetrics.com/speed-blog/feed/">RSS</a>] <a href="https://www.machmetrics.com/speed-blog">MachMetrics Speed Blog</a></li>
+  <li>[<a href="https://mojoauth.com/blog/feed/">RSS</a>] <a href="https://mojoauth.com/blog/">MojoAuth - Passwordless Authentication Blog</a></li>
   <li>[<a href="https://netflixtechblog.com/feed">RSS</a>] <a href="https://netflixtechblog.com">Netflix TechBlog</a></li>
   <li>[<a href="https://www.shimmercat.com/feed.xml">RSS</a>] <a href="https://www.shimmercat.com/">ShimmerCat</a></li>
   <li>[<a href="https://shopify.engineering/blog.atom">RSS</a>] <a href="https://engineering.shopify.com/blogs/engineering">Shopify Engineering</a></li>
